@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://smootherrands.local
+Data file = C:\Users\devch\Local Sites\smootherrands\app\public/wp-content/themes/the-hanger/inc/demo/thehanger.wordpress.xml
+Widget file = C:\Users\devch\Local Sites\smootherrands\app\public/wp-content/themes/the-hanger/inc/demo/thehanger.widgets.wie
+Customizer file = C:\Users\devch\Local Sites\smootherrands\app\public/wp-content/themes/the-hanger/inc/demo/thehanger.export.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Image - No Title - Imported
+Text - The Hanger - Imported
+
+Shop Sidebar : 
+
+WooCommerce product categories with icon - No Title - Imported
+
+Pre-Footer Widgets : 
+
+eCommerce Info - Free Worldwide Shipping - Imported
+eCommerce Info - Easy 30 Days Returns - Imported
+eCommerce Info - International Warranty - Imported
+eCommerce Info - 100% Secure Checkout - Imported
+
+Footer Widgets : 
+
+Product Search - No Title - Imported
+Navigation Menu - No Title - Imported
+Navigation Menu - No Title - Imported
+Navigation Menu - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
